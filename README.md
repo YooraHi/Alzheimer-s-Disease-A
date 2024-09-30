@@ -1,4 +1,4 @@
-# Alzheimer-s-Disease 
+# Alzheimer's Disease diagnosis 
 
 ## AD Diagnosis Article Review space 
 
